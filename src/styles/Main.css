@@ -1,0 +1,59 @@
+.vf-main-container{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.vf-main-containerSearch{
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.vf-main-label{
+    color: white;
+    font-size: clamp(0.5em, 1em + 1vw, 1.2em);
+}
+.vf-main-search-btn{
+    margin-top: 15px;
+}
+.vf-main-inputSearch{
+    width: 30vw;
+    height: 5vh;
+    border-radius: 20px 0 0 20px;
+    border: none;
+    font-size: 1em;
+}
+
+.vf-main-buttonSearch{
+    height: 5vh;
+    cursor: pointer;
+    border-radius: 0 20px 20px 0 ;
+    transition: all 1s;
+    border: none;
+}
+.vf-main-buttonSearch:hover{
+    background-color: #61dafb;
+    color: white;
+}
+.vf-main-show-data{
+    display: flex;
+    width: 100vw;
+    height: 35vh;
+    margin-top: 5px;
+    justify-content: center;
+}
+.vf-main-show-data ul{
+    margin: 0;
+    list-style: none;
+    background-color: white;
+}
+.vf-main-show-data ul li{
+
+}
+.vf-main-brand, .vf-main-model, .vf-main-year, .vf-main-plate, .vf-main-vin{
+    font-family: cursive;
+    font-size: 18px;
+}
