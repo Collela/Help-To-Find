@@ -1,4 +1,4 @@
-# **Notificador de Roubo de Motocicletas para Entregadores de Comida em Londres**
+# **Notificador de Roubo de Motocicletas**
 
     Este projeto tem como objetivo solucionar um problema que afeta entregadores de comida em Londres: o roubo frequente de motocicletas. Infelizmente, o roubo de motos é um problema comum na cidade, o que faz com que muitos entregadores sejam vítimas desse crime. Além disso, muitos entregadores não conseguem manter a segurança de suas motos enquanto trabalham, deixando-as vulneráveis aos ladrões. Como resultado, muitos veículos são abandonados em áreas aleatórias para verificar se não têm rastreador. Infelizmente, muitos proprietários de motocicletas roubadas não recebem notificações de que suas motos foram encontradas em tempo hábil, o que dificulta ainda mais a recuperação do veículo.
 
